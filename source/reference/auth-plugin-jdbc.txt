@@ -107,3 +107,7 @@ Use `Maven <https://maven.apache.org/>`__
 
          {username}?source={somedb}
 
+.. toctree::
+   :titlesonly:
+
+   /reference/drdl

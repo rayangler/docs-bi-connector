@@ -433,3 +433,8 @@ member of ``familyMembers``. The schema tracks the array index in
 the field ``familyMembers_idx``.
 
 .. include:: /includes/geospatial-data.rst
+
+.. toctree::
+   :titlesonly:
+
+   /reference/known-issues

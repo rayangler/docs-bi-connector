@@ -86,3 +86,8 @@ for use with the :doc:`/reference/auth-plugin-c`, ``mongosql_auth``.
             - ``"C:\Program Files (x86)\MySQL\MySQL Server 5.7\lib\plugin"``
           * - 64-bit Windows
             - ``"C:\Program Files\MySQL\MySQL Server 5.7\lib\plugin"``
+
+.. toctree::
+   :titlesonly:
+
+   /reference/auth-plugin-c

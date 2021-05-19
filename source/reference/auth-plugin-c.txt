@@ -151,3 +151,8 @@ via one of the following methods:
 This plugin can is compatible with both the 32-bit or 64-bit versions of
 the MySQL shell and MySQL Connector/ODBC driver. The installation
 directory differs depending on the version you install.
+
+.. toctree::
+   :titlesonly:
+
+   /reference/auth-plugin-jdbc
